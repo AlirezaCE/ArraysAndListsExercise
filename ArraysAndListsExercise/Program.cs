@@ -1,4 +1,5 @@
 ﻿using System;
+using ArraysAndListsExercise;
 
 class ArrayAndListExercise
 {
@@ -6,8 +7,9 @@ class ArrayAndListExercise
     // Main Method
     protected static void Main()
     {
+        //FacebookLikes.ShowLikes();//project 1
+        //ReverseName.Reverse();//project 2
+        FiveUniqueNumber.PrintSortedNumbers();//project 3
 
-        Console.WriteLine("Main Method");
-        Console.ReadLine();
     }
 }
