@@ -9,7 +9,7 @@ class ArrayAndListExercise
     {
         //FacebookLikes.ShowLikes();//project 1
         //ReverseName.Reverse();//project 2
-        FiveUniqueNumber.PrintSortedNumbers();//project 3
-
+        //FiveUniqueNumber.PrintSortedNumbers();//project 3
+        RemoveDuplicates.EnterNumber();
     }
 }
